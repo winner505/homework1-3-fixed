@@ -6,7 +6,7 @@ public class MainApplication {
     }
 
     public static void selectColor() {
-        int data = 15;
+        int data = 25;
 
         if (data <= 10) {
             System.out.println("Красный");
